@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "explain-code-pool-item",
+      "targetTime": 1.600253593649192
+    },
+    {
+      "name": "minimal-code-pacing-0",
+      "targetTime": 7.5123213696082
+    },
+    {
+      "name": "explain-code-pool-constructor",
+      "targetTime": 11.19195744306484
+    },
+    {
+      "name": "explain-code-pool-get-item",
+      "targetTime": 16.397701729308196
+    },
+    {
+      "name": "minimal-code-pacing-end",
+      "targetTime": 17.848993584000116
+    }
+  ],
+  "seed": 398453866
+}

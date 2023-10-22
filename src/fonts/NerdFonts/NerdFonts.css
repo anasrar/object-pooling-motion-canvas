@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Nerd Font Icon";
+  src: url("./SymbolsNerdFont-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nerd Font Icon Mono";
+  src: url("./SymbolsNerdFont-Regular.ttf") format("truetype");
+}

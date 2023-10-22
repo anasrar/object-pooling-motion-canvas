@@ -1,0 +1,90 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "explain-godot",
+      "targetTime": 4.322716275976484
+    },
+    {
+      "name": "explain-godot-git-repository",
+      "targetTime": 7.830082662606242
+    },
+    {
+      "name": "explain-new-scene-pool",
+      "targetTime": 12.656642159057762
+    },
+    {
+      "name": "explain-attach-script-pool",
+      "targetTime": 15.76653426176433
+    },
+    {
+      "name": "explain-new-script-pool",
+      "targetTime": 17.483934145055564
+    },
+    {
+      "name": "explain-code-pool-clean-up",
+      "targetTime": 20.412440643146603
+    },
+    {
+      "name": "explain-code-pool-interface",
+      "targetTime": 23.84822497484315
+    },
+    {
+      "name": "explain-code-pool-export-variable-0",
+      "targetTime": 27.601351000260436
+    },
+    {
+      "name": "explain-code-pool-export-variable-1",
+      "targetTime": 31.606577065245446
+    },
+    {
+      "name": "explain-code-pool-initial-spawn",
+      "targetTime": 42.826406930392864
+    },
+    {
+      "name": "explain-code-pool-get-item",
+      "targetTime": 54.53997185241338
+    },
+    {
+      "name": "explain-new-scene-bullet",
+      "targetTime": 58.82353782385374
+    },
+    {
+      "name": "explain-attach-script-bullet",
+      "targetTime": 62.00796492435177
+    },
+    {
+      "name": "explain-new-script-bullet",
+      "targetTime": 63.47277203939212
+    },
+    {
+      "name": "explain-code-bullet-clean-up",
+      "targetTime": 67.04010689615143
+    },
+    {
+      "name": "explain-code-bullet-interface",
+      "targetTime": 72.44993560582192
+    },
+    {
+      "name": "explain-code-bullet-initial-hide",
+      "targetTime": 77.40824151697969
+    },
+    {
+      "name": "explain-code-bullet-spawn",
+      "targetTime": 88.70821523469291
+    },
+    {
+      "name": "explain-code-bullet-destroy",
+      "targetTime": 99.83206301094623
+    },
+    {
+      "name": "explain-godot-usage-0",
+      "targetTime": 103.75110197670176
+    },
+    {
+      "name": "explain-godot-usage-1",
+      "targetTime": 110.78287344900816
+    }
+  ],
+  "seed": 3714071964
+}

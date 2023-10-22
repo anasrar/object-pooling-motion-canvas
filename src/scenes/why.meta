@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "explain-create",
+      "targetTime": 2.1717587822695656
+    },
+    {
+      "name": "explain-destroy",
+      "targetTime": 4.685675356651256
+    },
+    {
+      "name": "explain-show-hide",
+      "targetTime": 9.923379269746128
+    },
+    {
+      "name": "explain-create-hide",
+      "targetTime": 12.581428689112233
+    },
+    {
+      "name": "explain-show",
+      "targetTime": 15.64852803910144
+    },
+    {
+      "name": "explain-hide",
+      "targetTime": 18.502463484015347
+    },
+    {
+      "name": "why-pacing-end",
+      "targetTime": 19.721222738804084
+    }
+  ],
+  "seed": 2464496813
+}
